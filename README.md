@@ -1,8 +1,8 @@
-- 👋 Heya, I’m @LeroStorm, @ChernoeLeto, @Alex, whatever
-- 👀 I’m interested in gamedev for now and cool with making friens and other connections
-- I'm currently using godot but planing to comeback to Unity(optional)
-- Or going to deeplearning or bigdata
-
+- 👋 Heya, I’m @LeroStorm, @ChernoeLeto, @Alex
+- @BlackSparkle, MirNaoborot, HeartsandBlades
+- 👀 I’m interested in gamedev for now
+- I'm currently using Godot
+- 
 
 Hey, you can hire me
 100$ per hour
