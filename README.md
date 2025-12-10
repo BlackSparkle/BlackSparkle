@@ -5,7 +5,7 @@
 
 
 Hey, you can hire me
-50$ - hour
+100$ per hour
 <!---
 LeroStorm/LeroStorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
