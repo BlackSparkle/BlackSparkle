@@ -1,5 +1,5 @@
-- 👋 Heya, I’m @LeroStorm, @ChernoeLeto, @Alex
-- @BlackSparkle, MirNaoborot, HeartsandBlades
+- 👋 Heya, I’m @BlackSparkle, 
+- also MirNaoborot, HeartsandBlades
 - 👀 I’m interested in gamedev for now
 - I'm currently using Godot
 - 
