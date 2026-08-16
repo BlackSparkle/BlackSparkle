@@ -1,7 +1,6 @@
 <!DOCKTYPE html>
 
 <body>
-  <img src = heart_sketch.png>
   <div>
     👋 Heya, I’m <a href=https://blacksparkle.carrd.co>@BlackSparkle</a> (Kanischev Alexander),<br>
     also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)<br>
@@ -20,6 +19,7 @@
   <div>
     I'm using Godot engine for game developing (no other engines)
   </div>
+  <img src = heart_sketch.png>
 </body>
 
 
