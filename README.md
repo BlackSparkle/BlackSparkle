@@ -4,9 +4,15 @@
   <div>
     👋 Heya, I’m <a href=https://blacksparkle.carrd.co>@BlackSparkle</a> (Kanischev Alexander),
   </div>
-  also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)
-  A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there
-  I'm a game developer / backend programer
+  <div>
+    also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)
+  </div>
+  <div>
+    A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there
+  </div>
+  <div>
+    I'm a game developer / backend programer
+  </div>
 
   
   👀 For now i'm looking for sponsorship for My personal projects
