@@ -1,6 +1,7 @@
 <!DOCKTYPE html>
 
 <body>
+  <img src=heart sketch.png>
   <div>
     👋 Heya, I’m <a href=https://blacksparkle.carrd.co>@BlackSparkle</a> (Kanischev Alexander),<br>
     also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)<br>
