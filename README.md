@@ -5,13 +5,13 @@ A Programmer, an artist, a content maker, artist lover, roleplayer and much more
 
 
 
-/n 👀 For now i'm looking for sponsorship for My personal projects
-/n so You can hire me as a game developer (Godot)
-/n payment per hour
+👀 For now i'm looking for sponsorship for My personal projects
+so You can hire me as a game developer (Godot)
+payment per hour
 
 
 
-/n I'm using Godot engine for game developing (no other engines)
+I'm using Godot engine for game developing (no other engines)
 
 
 
