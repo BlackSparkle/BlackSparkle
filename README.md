@@ -2,28 +2,15 @@
 
 <body>
   <div>
-    👋 Heya, I’m <a href=https://blacksparkle.carrd.co>@BlackSparkle</a> (Kanischev Alexander),
-  </div>
-  <div>
-    also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)
-  </div>
-  <div>
-    A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there
-  </div>
-  <div>
+    👋 Heya, I’m <a href=https://blacksparkle.carrd.co>@BlackSparkle</a> (Kanischev Alexander),<br>
+    also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)<br>
+    A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there<br>
     I'm a game developer / backend programer
-  </div>
 
   
-  <div>
     👀 For now i'm looking for sponsorship for My personal projects
-  </div>
-  <div>
     so You can hire me as a game developer (Godot)
-  </div>
-  <div>
     payment per hour
-  </div>
 
   
   I'm using Godot engine for game developing (no other engines)
