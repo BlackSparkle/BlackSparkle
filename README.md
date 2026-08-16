@@ -22,9 +22,7 @@
     I'm using Godot engine for game developing (no other engines)
   </div>
   <button class = 'heart'> <img src = heart_sketch.png> </button>
-  <script>
-    
-  </script>
+
   
 
   
