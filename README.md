@@ -13,8 +13,14 @@
   <p>
     I'm a game developer / backend programer
   </p>
-  <p></p>
-  <p></p>
+  <p>
+
+    
+  </p>
+  <p>
+
+    
+  </p>
   👀 For now i'm looking for sponsorship for My personal projects
   so You can hire me as a game developer (Godot)
   payment per hour
