@@ -1,7 +1,7 @@
 <!DOCKTYPE html>
 
 <body>
-  <p>👋 Heya, I’m @BlackSparkle (Kanischev Alexander),</p>
+  <p>👋 Heya, I’m <a href=https://https://blacksparkle.carrd.co>@BlackSparkle</a> (Kanischev Alexander),</p>
   <p>also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)</p>
   <p>A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there</p>
   <p>I'm a game developer / backend programer</p>
