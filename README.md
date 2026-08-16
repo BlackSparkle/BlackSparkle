@@ -22,6 +22,7 @@
   <button class='myclass'> button </button>
   <script>
     $('.myclass').click( function() {$(this).hide() })
+  </script>
   <img src = heart_sketch.png>
 
   
