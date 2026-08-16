@@ -3,7 +3,7 @@
 <body>
   <hr>👋 Heya, I’m @BlackSparkle (Kanischev Alexander),</hr>
   <hr>also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)</hr>
-  A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there
+  <p>A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there</p>
   I'm a game developer / backend programer
 </body>
 
