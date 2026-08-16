@@ -1,13 +1,19 @@
-- 👋 Heya, I’m @BlackSparkle (Kanischev Alexander), 
-- also MirNaoborot, HeartsandBlades
-- A Programmer, artist, content maker
-- 👀 I’m interested in gamedev for now
-- I'm using Godot engine for game developing
+👋 Heya, I’m @BlackSparkle (Kanischev Alexander), 
+also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)
+A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there
+I'm a game developer / backend programer
 
 
 
-You can hire me
-100$ per hour
+👀 For now i'm looking for sponsorship for My personal projects
+so You can hire me as a game developer (Godot)
+payment per hour
+
+
+
+I'm using Godot engine for game developing (no other engines)
+
+
 
 
 <!---
