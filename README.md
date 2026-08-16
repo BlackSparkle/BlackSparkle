@@ -1,7 +1,7 @@
 👋 Heya, I’m @BlackSparkle (Kanischev Alexander), 
-also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)
+<body>also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)</body>
 A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there
-</n>I'm a game developer / backend programer
+I'm a game developer / backend programer
 
 
 
