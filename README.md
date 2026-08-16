@@ -15,11 +15,17 @@
   </div>
 
   
-  👀 For now i'm looking for sponsorship for My personal projects
-  so You can hire me as a game developer (Godot)
-  payment per hour
+  <div>
+    👀 For now i'm looking for sponsorship for My personal projects
+  </div>
+  <div>
+    so You can hire me as a game developer (Godot)
+  </div>
+  <div>
+    payment per hour
+  </div>
 
-
+  
   I'm using Godot engine for game developing (no other engines)
 </body>
 
