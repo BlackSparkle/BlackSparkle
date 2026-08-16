@@ -1,5 +1,13 @@
 <!DOCKTYPE html>
 
+<head>
+  <style>
+    body {
+      background-color: lightblue;
+      }
+  </style>
+</head>
+
 <body>
   <div>
     👋 Heya, I’m <a href=https://blacksparkle.carrd.co>@BlackSparkle</a> (Kanischev Alexander),<br>
@@ -19,7 +27,10 @@
   <div>
     I'm using Godot engine for game developing (no other engines)
   </div>
-  <button class='myclass'> <img src = heart_sketch.png> </button>
+  <button class = 'heart'> <img src = heart_sketch.png> </button>
+  <script>
+    
+  </script>
   
 
   
