@@ -1,6 +1,7 @@
 <!DOCKTYPE html>
 
 <body>
+  this.style.background = '#ff0'
   <div>
     👋 Heya, I’m <a href=https://blacksparkle.carrd.co>@BlackSparkle</a> (Kanischev Alexander),<br>
     also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)<br>
@@ -19,11 +20,8 @@
   <div>
     I'm using Godot engine for game developing (no other engines)
   </div>
-  <button class='myclass'> button </button>
-  <script>
-    $('.myclass').click( function() {$(this).hide() })
-  </script>
-  <img src = heart_sketch.png>
+  <button class='myclass'> <img src = heart_sketch.png> </button>
+  
 
   
 </body>
