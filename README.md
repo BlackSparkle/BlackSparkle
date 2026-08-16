@@ -1,10 +1,11 @@
-- 👋 Heya, I’m @BlackSparkle, 
+- 👋 Heya, I’m @BlackSparkle (Kanischev Alexander), 
 - also MirNaoborot, HeartsandBlades
 - 👀 I’m interested in gamedev for now
-- I'm currently using Godot
-- 
+- I'm using Godot engine for game developing
 
-Hey, you can hire me
+
+
+You can hire me
 100$ per hour
 <!---
 LeroStorm/LeroStorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
