@@ -27,7 +27,7 @@
   <p>I'm using Godot engine for game developing (no other engines)</p>
 </body>
 
-/*this is comentary*/
+/*this is not comentary (*/
 
 <!---
 BlackSparkle/BlackSparkle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
