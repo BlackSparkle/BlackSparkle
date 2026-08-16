@@ -19,7 +19,9 @@
   <div>
     I'm using Godot engine for game developing (no other engines)
   </div>
-  <button></button>
+  <button class='myclass'> button </button>
+  <script>
+    $('.myclass').click( function() {$(this).hide() })
   <img src = heart_sketch.png>
 
   
