@@ -1,11 +1,11 @@
-<head> 
-Black Sparkle
-</head>
 
-<body>👋 Heya, I’m @BlackSparkle (Kanischev Alexander), </body>
-<body> also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project) </body>
-<body> A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there </body>
-<body> I'm a game developer / backend programer </body>
+
+<body>
+  <b>👋 Heya, I’m @BlackSparkle (Kanischev Alexander),</b>
+  <b>also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)</b>
+  A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there
+  I'm a game developer / backend programer
+</body>
 
 
 
