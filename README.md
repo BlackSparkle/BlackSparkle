@@ -6,14 +6,17 @@
     also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)<br>
     A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there<br>
     I'm a game developer / backend programer
+  </div>
 
-  
-    👀 For now i'm looking for sponsorship for My personal projects
-    so You can hire me as a game developer (Godot)
-    payment per hour
+  <div>
+    👀 For now i'm looking for sponsorship for My personal projects<br>
+    so You can hire me as a game developer (Godot)<br>
+    payment per hour<br>
+  </div>
+    
 
-  
-  I'm using Godot engine for game developing (no other engines)
+  <div>
+    I'm using Godot engine for game developing (no other engines)
   </div>
 </body>
 
