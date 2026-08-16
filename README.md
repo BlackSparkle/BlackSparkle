@@ -7,7 +7,8 @@
     A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there<br>
     I'm a game developer / backend programer
   </div>
-
+  <br>
+  <br>
   <div>
     👀 For now i'm looking for sponsorship for My personal projects<br>
     so You can hire me as a game developer (Godot)<br>
