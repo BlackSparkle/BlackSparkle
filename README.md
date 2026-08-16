@@ -14,8 +14,8 @@
     so You can hire me as a game developer (Godot)<br>
     payment per hour<br>
   </div>
-    
-
+  <br>
+  <br>
   <div>
     I'm using Godot engine for game developing (no other engines)
   </div>
