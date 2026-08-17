@@ -21,7 +21,7 @@
   <div>
     I'm using Godot engine for game developing (no other engines)
   </div>
-  <button class = 'heart'> <img src = heart_sketch.png> </button>
+  <button class = 'heart'> <img src = heart_sketch.png dragable='true'> </button>
 
   
 
