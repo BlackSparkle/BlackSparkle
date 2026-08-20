@@ -4,7 +4,7 @@
 
 <body>
   <div>
-    👋 Heya, I’m <a href=https://blacksparkle.carrd.co>@BlackSparkle</a> (Kanischev Alexander),<br>
+    👋 Heya, I’m <a href=https://blacksparkle.carrd.co>✧ @BlackSparkle ✧</a> (Kanischev Alexander),<br>
     also MirNaoborot (as streamer), HeartsandBlades (gamedev and history focused special project)<br>
     A Programmer, an artist, a content maker, artist lover, roleplayer and much more, but there<br>
     I'm a game developer / backend programer
